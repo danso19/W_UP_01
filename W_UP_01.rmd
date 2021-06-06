@@ -82,8 +82,9 @@ The avarage number of pushups done by a line player is 17.125 so the mean, where
 t.test(pushups~position,data=mydata)
 ```
 
+Due to the information gathered it is shown that there is a undeniable difference between both the line players to that of the skill players, as the skill players on avarage can almost triple the amount of pushups that the skill players can do. The mean of these two groups have been able to demonstarte that the p-value is low thus reject the hypothesis.
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-
+By accuratly assesing the number of pushups of two groups being the line players and the skill pkayers, we compared the number of pushups that both groups were able to do, and by simply looking at the mean from both groups , the results had shown an astounding difference between them both as the skill players were almost able to do three more times that the line players. all of this was only possible bby uploading the data from different panes within the program and copying and pasting as Dr.K was able to help us even those of us who are technology deficient.
